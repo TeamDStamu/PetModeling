@@ -26,7 +26,7 @@ def readDoc():
 
 readDoc()
 
-print listProb
+print "Starting"
 
 while True:
     randomValue = random.random()
